@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.26)  9 JAN 2026 19:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.26)  9 JAN 2026 19:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1390,28 +1390,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 422--423
  []
 
 
-Overfull \hbox (14.0281pt too wide) in paragraph at lines 426--427
-[][][]\T1/lmtt/m/n/12 ngrok http 8000 --host-header=l0wcs0g0wcscg0occc8gg8cw.192.168.0.66.sslip.io 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 431--432
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 435--436
-
- []
-
-
-Overfull \hbox (6.3808pt too wide) in paragraph at lines 447--447
- []      \T1/lmtt/m/n/12 && echo "deb https://ngrok-agent.s3.amazonaws.com bookworm main"[] 
- []
-
-
-Overfull \hbox (220.59001pt too wide) in paragraph at lines 450--451
-[]\T1/lmss/m/n/12 (-20) IP de con-te-ne-dor: [][]\T1/lmtt/m/n/12 docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' idDelContainer 
+Overfull \hbox (1.6781pt too wide) in paragraph at lines 426--427
+[][][]\T1/lmtt/m/n/12 ngrok http 80 --host-header=l0wcs0g0wcscg0occc8gg8cw.192.168.0.66.sslip.io 
  []
 
 
@@ -1426,6 +1406,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [25
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--438
+
+ []
+
+
+Overfull \hbox (6.3808pt too wide) in paragraph at lines 449--449
+ []      \T1/lmtt/m/n/12 && echo "deb https://ngrok-agent.s3.amazonaws.com bookworm main"[] 
+ []
+
+
+Overfull \hbox (220.59001pt too wide) in paragraph at lines 452--453
+[]\T1/lmss/m/n/12 (-20) IP de con-te-ne-dor: [][]\T1/lmtt/m/n/12 docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' idDelContainer 
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1434,7 +1434,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.64995pt}.
 
-[26] (readme.aux
+[26
+
+] (readme.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -1448,13 +1450,13 @@ Package rerunfilecheck Info: File `readme.out' has not changed.
 Here is how much of TeX's memory you used:
  15362 strings out of 468130
  248154 string characters out of 5429181
- 707760 words of memory out of 5000000
+ 706760 words of memory out of 5000000
  43642 multiletter control sequences out of 15000+600000
  679047 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1213b,598s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1213b,484s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on readme.pdf (26 pages, 2626776 bytes).
+Output written on readme.pdf (26 pages, 2626856 bytes).
 PDF statistics:
  325 PDF objects out of 1000 (max. 8388607)
  73 named destinations out of 1000 (max. 500000)

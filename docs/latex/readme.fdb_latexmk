@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1767984764.19101 "c:/Users/danielcc/Desktop/DAM T Post Nadal/code/vscode/afond_1_5/docs/latex/readme.tex" "readme.pdf" "readme" 1767984767.90402 0
+["pdflatex"] 1767984826.77041 "c:/Users/danielcc/Desktop/DAM T Post Nadal/code/vscode/afond_1_5/docs/latex/readme.tex" "readme.pdf" "readme" 1767984830.53139 0
   "../img/01.png" 1767883381 76791 213dda2714a34ad42bfa7ad70529c7c6 ""
   "../img/03.png" 1767883381 48537 dd5f053157270cd8bc5e57890f5980b3 ""
   "../img/04.png" 1767883381 136194 d575fbb582b3b179788c495f3ea8b343 ""
@@ -144,11 +144,11 @@
   "C:/Users/danielcc/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1736608268 48766 87a17a4ef312a39cd43896e34a679a56 ""
   "C:/Users/danielcc/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/danielcc/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/danielcc/Desktop/DAM T Post Nadal/code/vscode/afond_1_5/docs/latex/readme.tex" 1767984759 11290 ede7206a2f0ed7dea151ef6eb292b2f9 ""
-  "readme.aux" 1767984767 6297 4119c962b26d002fd146ee1d0e00d86a "pdflatex"
-  "readme.out" 1767984767 807 220bf3b541ba88b3ccc1c3840b241391 "pdflatex"
-  "readme.tex" 1767984759 11290 ede7206a2f0ed7dea151ef6eb292b2f9 ""
-  "readme.toc" 1767984767 472 97a316ca338efdb2dc22ffa58f47e882 "pdflatex"
+  "c:/Users/danielcc/Desktop/DAM T Post Nadal/code/vscode/afond_1_5/docs/latex/readme.tex" 1767984824 11302 2565f55f3df8cc2e65a9519fcc610f9a ""
+  "readme.aux" 1767984830 6297 30bba131e5c98feac5b2443727f3d2a4 "pdflatex"
+  "readme.out" 1767984830 807 220bf3b541ba88b3ccc1c3840b241391 "pdflatex"
+  "readme.tex" 1767984824 11302 2565f55f3df8cc2e65a9519fcc610f9a ""
+  "readme.toc" 1767984830 472 923aed7121ee2c45a82a2b6784b56fca "pdflatex"
   (generated)
   "readme.aux"
   "readme.log"
