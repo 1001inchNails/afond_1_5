@@ -418,6 +418,15 @@ Después de cambiarlo, se procedió a volver a ejecutar \verb|ifconfig| para bus
 
 \clearpage
 
+\section{Abrir tunel fuera de la red}
+\hyperlink{anchor-indice}{\textbf{Volver}}\\
+
+Para abrir un tunel con  ngrok y poder ver la API fuera de nuestra red, necesitamos usar este comando, usando el puerto 80 (por defecto de ngrok) y usar el dominio del webhook proporcionado por coolify:
+
+\verb|ngrok http 8000 --host-header=l0wcs0g0wcscg0occc8gg8cw.192.168.0.66.sslip.io|
+
+Con el enlace resultante podemos ver la API en cualquier dispositivo.
+
 \section{Info}
 \hyperlink{anchor-indice}{\textbf{Volver}}\\
 

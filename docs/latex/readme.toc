@@ -3,4 +3,5 @@
 \contentsline {section}{\numberline {2}Coolify, Ngrok}{4}{section.2}%
 \contentsline {section}{\numberline {3}Prueba con API test simple}{6}{section.3}%
 \contentsline {section}{\numberline {4}Prueba con API/BBDD}{12}{section.4}%
-\contentsline {section}{\numberline {5}Info}{25}{section.5}%
+\contentsline {section}{\numberline {5}Abrir tunel fuera de la red}{25}{section.5}%
+\contentsline {section}{\numberline {6}Info}{25}{section.6}%
