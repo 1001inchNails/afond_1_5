@@ -1,6 +1,6 @@
-PWD c:\Users\danielcc\Desktop\DAM T Post Nadal\code\vscode\afond_1_5\docs\latex
+PWD c:\Users\danielcc\Desktop\DAM 2T Post Nadal\code\vscode\afond_1_5\docs\latex
 INPUT C:\Users\danielcc\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\danielcc\Desktop\DAM T Post Nadal\code\vscode\afond_1_5\docs\latex\readme.tex
+INPUT c:\Users\danielcc\Desktop\DAM 2T Post Nadal\code\vscode\afond_1_5\docs\latex\readme.tex
 OUTPUT readme.log
 INPUT C:\Users\danielcc\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\danielcc\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -455,6 +455,54 @@ INPUT ..\img\42.png
 INPUT ..\img\42.png
 INPUT ..\img\42.png
 INPUT ..\img\42.png
+INPUT ..\img\43.png
+INPUT ..\img\43.png
+INPUT ..\img\43.png
+INPUT ..\img\43.png
+INPUT ..\img\43.png
+INPUT ..\img\43.png
+INPUT ..\img\44.png
+INPUT ..\img\44.png
+INPUT ..\img\44.png
+INPUT ..\img\44.png
+INPUT ..\img\44.png
+INPUT ..\img\44.png
+INPUT ..\img\45.png
+INPUT ..\img\45.png
+INPUT ..\img\45.png
+INPUT ..\img\45.png
+INPUT ..\img\45.png
+INPUT ..\img\45.png
+INPUT ..\img\46.png
+INPUT ..\img\46.png
+INPUT ..\img\46.png
+INPUT ..\img\46.png
+INPUT ..\img\46.png
+INPUT ..\img\46.png
+INPUT ..\img\47.png
+INPUT ..\img\47.png
+INPUT ..\img\47.png
+INPUT ..\img\47.png
+INPUT ..\img\47.png
+INPUT ..\img\47.png
+INPUT ..\img\48.png
+INPUT ..\img\48.png
+INPUT ..\img\48.png
+INPUT ..\img\48.png
+INPUT ..\img\48.png
+INPUT ..\img\48.png
+INPUT ..\img\49.png
+INPUT ..\img\49.png
+INPUT ..\img\49.png
+INPUT ..\img\49.png
+INPUT ..\img\49.png
+INPUT ..\img\49.png
+INPUT ..\img\50.png
+INPUT ..\img\50.png
+INPUT ..\img\50.png
+INPUT ..\img\50.png
+INPUT ..\img\50.png
+INPUT ..\img\50.png
 INPUT readme.aux
 INPUT .\readme.out
 INPUT .\readme.out

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.26)  9 JAN 2026 19:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.26)  21 JAN 2026 19:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/danielcc/Desktop/DAM T Post Nadal/code/vscode/afond_1_5/docs/latex/readme.tex"
-(c:/Users/danielcc/Desktop/DAM T Post Nadal/code/vscode/afond_1_5/docs/latex/readme.tex
+**"c:/Users/danielcc/Desktop/DAM 2T Post Nadal/code/vscode/afond_1_5/docs/latex/readme.tex"
+(c:/Users/danielcc/Desktop/DAM 2T Post Nadal/code/vscode/afond_1_5/docs/latex/readme.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
 (C:\Users\danielcc\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -702,12 +702,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 103.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 103.
-<../img/01.png, id=56, 642.14906pt x 433.62pt>
+<../img/01.png, id=61, 642.14906pt x 433.62pt>
 File: ../img/01.png Graphic file (type png)
 <use ../img/01.png>
 Package pdftex.def Info: ../img/01.png  used on input line 111.
 (pdftex.def)             Requested size: 455.24411pt x 307.41582pt.
-<../img/03.png, id=58, 817.55438pt x 540.51938pt>
+<../img/03.png, id=63, 817.55438pt x 540.51938pt>
 File: ../img/03.png Graphic file (type png)
 <use ../img/03.png>
 Package pdftex.def Info: ../img/03.png  used on input line 118.
@@ -751,7 +751,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
-<../img/04.png, id=73, 1230.09563pt x 691.83469pt>
+<../img/04.png, id=78, 1230.09563pt x 691.83469pt>
 File: ../img/04.png Graphic file (type png)
 <use ../img/04.png>
 Package pdftex.def Info: ../img/04.png  used on input line 132.
@@ -761,7 +761,7 @@ Overfull \hbox (17.63777pt too wide) in paragraph at lines 137--138
 []\T1/lmss/m/n/12 (-20) Crear nue-vo pro-yec-to, aña-dir re-cur-so (re-po-si-to-rio pú-bli-co, [][]$\T1/lmtt/m/n/12 https : / / github . com / 1001inchNails /
  []
 
-<../img/05.png, id=75, 1244.39906pt x 695.59875pt>
+<../img/05.png, id=80, 1244.39906pt x 695.59875pt>
 File: ../img/05.png Graphic file (type png)
 <use ../img/05.png>
 Package pdftex.def Info: ../img/05.png  used on input line 141.
@@ -786,12 +786,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has
                                                   \__shipout_drop_firstpage_...
 l.144 \FloatBarrier
                     <../img/04.png>]
-<../img/07.png, id=83, 1444.64719pt x 685.05937pt>
+<../img/07.png, id=88, 1444.64719pt x 685.05937pt>
 File: ../img/07.png Graphic file (type png)
 <use ../img/07.png>
 Package pdftex.def Info: ../img/07.png  used on input line 148.
 (pdftex.def)             Requested size: 455.24411pt x 215.87846pt.
-<../img/06.png, id=84, 1230.84843pt x 694.09312pt>
+<../img/06.png, id=89, 1230.84843pt x 694.09312pt>
 File: ../img/06.png Graphic file (type png)
 <use ../img/06.png>
 Package pdftex.def Info: ../img/06.png  used on input line 155.
@@ -820,12 +820,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has
                                                   \__shipout_drop_firstpage_...
 l.158 \FloatBarrier
                     <../img/05.png> <../img/07.png>]
-<../img/08.png, id=94, 1227.83719pt x 685.8122pt>
+<../img/08.png, id=99, 1227.83719pt x 685.8122pt>
 File: ../img/08.png Graphic file (type png)
 <use ../img/08.png>
 Package pdftex.def Info: ../img/08.png  used on input line 162.
 (pdftex.def)             Requested size: 455.24411pt x 254.28024pt.
-<../img/09.png, id=95, 1231.60126pt x 699.36281pt>
+<../img/09.png, id=100, 1231.60126pt x 699.36281pt>
 File: ../img/09.png Graphic file (type png)
 <use ../img/09.png>
 Package pdftex.def Info: ../img/09.png  used on input line 169.
@@ -854,12 +854,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has
                                                   \__shipout_drop_firstpage_...
 l.172 \FloatBarrier
                     <../img/06.png> <../img/08.png>]
-<../img/10.png, id=104, 1068.99374pt x 667.74469pt>
+<../img/10.png, id=109, 1068.99374pt x 667.74469pt>
 File: ../img/10.png Graphic file (type png)
 <use ../img/10.png>
 Package pdftex.def Info: ../img/10.png  used on input line 178.
 (pdftex.def)             Requested size: 455.24411pt x 284.3634pt.
-<../img/11.png, id=105, 1060.71281pt x 151.3153pt>
+<../img/11.png, id=110, 1060.71281pt x 151.3153pt>
 File: ../img/11.png Graphic file (type png)
 <use ../img/11.png>
 Package pdftex.def Info: ../img/11.png  used on input line 187.
@@ -888,22 +888,22 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has
                                                   \__shipout_drop_firstpage_...
 l.190 \FloatBarrier
                     <../img/09.png> <../img/10.png>]
-<../img/12.png, id=114, 1081.79156pt x 353.82187pt>
+<../img/12.png, id=119, 1081.79156pt x 353.82187pt>
 File: ../img/12.png Graphic file (type png)
 <use ../img/12.png>
 Package pdftex.def Info: ../img/12.png  used on input line 196.
 (pdftex.def)             Requested size: 455.24411pt x 148.8957pt.
-<../img/13.png, id=115, 557.83406pt x 88.07906pt>
+<../img/13.png, id=120, 557.83406pt x 88.07906pt>
 File: ../img/13.png Graphic file (type png)
 <use ../img/13.png>
 Package pdftex.def Info: ../img/13.png  used on input line 205.
 (pdftex.def)             Requested size: 455.24411pt x 71.88257pt.
-<../img/14.png, id=116, 874.01532pt x 233.37187pt>
+<../img/14.png, id=121, 874.01532pt x 233.37187pt>
 File: ../img/14.png Graphic file (type png)
 <use ../img/14.png>
 Package pdftex.def Info: ../img/14.png  used on input line 212.
 (pdftex.def)             Requested size: 455.24411pt x 121.55704pt.
-<../img/16.png, id=117, 572.89032pt x 189.70876pt>
+<../img/16.png, id=122, 572.89032pt x 189.70876pt>
 File: ../img/16.png Graphic file (type png)
 <use ../img/16.png>
 Package pdftex.def Info: ../img/16.png  used on input line 219.
@@ -960,17 +960,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 227--228
 
  []
 
-<../img/17.png, id=137, 991.45406pt x 569.12625pt>
+<../img/17.png, id=142, 991.45406pt x 569.12625pt>
 File: ../img/17.png Graphic file (type png)
 <use ../img/17.png>
 Package pdftex.def Info: ../img/17.png  used on input line 233.
 (pdftex.def)             Requested size: 455.24411pt x 261.32362pt.
-<../img/18.png, id=138, 1128.46594pt x 412.54124pt>
+<../img/18.png, id=143, 1128.46594pt x 412.54124pt>
 File: ../img/18.png Graphic file (type png)
 <use ../img/18.png>
 Package pdftex.def Info: ../img/18.png  used on input line 240.
 (pdftex.def)             Requested size: 455.24411pt x 166.42992pt.
-<../img/19.png, id=139, 647.41875pt x 243.15843pt>
+<../img/19.png, id=144, 647.41875pt x 243.15843pt>
 File: ../img/19.png Graphic file (type png)
 <use ../img/19.png>
 Package pdftex.def Info: ../img/19.png  used on input line 247.
@@ -1000,12 +1000,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) ha
                                                   \__shipout_drop_firstpage_...
 l.250 \FloatBarrier
                     <../img/17.png> <../img/18.png>]
-<../img/20.png, id=148, 1444.64719pt x 747.54282pt>
+<../img/20.png, id=153, 1444.64719pt x 747.54282pt>
 File: ../img/20.png Graphic file (type png)
 <use ../img/20.png>
 Package pdftex.def Info: ../img/20.png  used on input line 254.
 (pdftex.def)             Requested size: 455.24411pt x 235.56848pt.
-<../img/21.png, id=149, 1432.60219pt x 764.10469pt>
+<../img/21.png, id=154, 1432.60219pt x 764.10469pt>
 File: ../img/21.png Graphic file (type png)
 <use ../img/21.png>
 Package pdftex.def Info: ../img/21.png  used on input line 261.
@@ -1034,12 +1034,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) ha
                                                   \__shipout_drop_firstpage_...
 l.264 \FloatBarrier
                     <../img/19.png> <../img/20.png>]
-<../img/22.png, id=159, 703.87968pt x 397.485pt>
+<../img/22.png, id=164, 703.87968pt x 397.485pt>
 File: ../img/22.png Graphic file (type png)
 <use ../img/22.png>
 Package pdftex.def Info: ../img/22.png  used on input line 270.
 (pdftex.def)             Requested size: 455.24411pt x 257.07637pt.
-<../img/23.png, id=160, 1411.52344pt x 673.76718pt>
+<../img/23.png, id=165, 1411.52344pt x 673.76718pt>
 File: ../img/23.png Graphic file (type png)
 <use ../img/23.png>
 Package pdftex.def Info: ../img/23.png  used on input line 277.
@@ -1068,12 +1068,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.20}) ha
                                                   \__shipout_drop_firstpage_...
 l.280 \FloatBarrier
                     <../img/21.png> <../img/22.png>]
-<../img/24.png, id=169, 1421.31pt x 663.98062pt>
+<../img/24.png, id=174, 1421.31pt x 663.98062pt>
 File: ../img/24.png Graphic file (type png)
 <use ../img/24.png>
 Package pdftex.def Info: ../img/24.png  used on input line 284.
 (pdftex.def)             Requested size: 455.24411pt x 212.67062pt.
-<../img/25.png, id=170, 1240.635pt x 657.2053pt>
+<../img/25.png, id=175, 1240.635pt x 657.2053pt>
 File: ../img/25.png Graphic file (type png)
 <use ../img/25.png>
 Package pdftex.def Info: ../img/25.png  used on input line 292.
@@ -1102,17 +1102,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.22}) ha
                                                   \__shipout_drop_firstpage_...
 l.295 \FloatBarrier
                     <../img/23.png> <../img/24.png>]
-<../img/26.png, id=179, 655.69969pt x 240.9pt>
+<../img/26.png, id=184, 655.69969pt x 240.9pt>
 File: ../img/26.png Graphic file (type png)
 <use ../img/26.png>
 Package pdftex.def Info: ../img/26.png  used on input line 299.
 (pdftex.def)             Requested size: 455.24411pt x 167.25407pt.
-<../img/27.png, id=180, 1044.15094pt x 153.57375pt>
+<../img/27.png, id=185, 1044.15094pt x 153.57375pt>
 File: ../img/27.png Graphic file (type png)
 <use ../img/27.png>
 Package pdftex.def Info: ../img/27.png  used on input line 306.
 (pdftex.def)             Requested size: 455.24411pt x 66.9587pt.
-<../img/28.png, id=181, 851.43094pt x 696.35156pt>
+<../img/28.png, id=186, 851.43094pt x 696.35156pt>
 File: ../img/28.png Graphic file (type png)
 <use ../img/28.png>
 Package pdftex.def Info: ../img/28.png  used on input line 313.
@@ -1146,7 +1146,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.25}) ha
                                                   \__shipout_drop_firstpage_...
 l.316 \FloatBarrier
                     <../img/25.png> <../img/26.png> <../img/27.png>]
-<../img/29.png, id=192, 518.6878pt x 327.47343pt>
+<../img/29.png, id=197, 518.6878pt x 327.47343pt>
 File: ../img/29.png Graphic file (type png)
 <use ../img/29.png>
 Package pdftex.def Info: ../img/29.png  used on input line 320.
@@ -1184,22 +1184,22 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.27}) ha
                                                   \__shipout_drop_firstpage_...
 l.323 \FloatBarrier
                     <../img/29.png>]
-<../img/30.png, id=206, 855.195pt x 407.27156pt>
+<../img/30.png, id=211, 855.195pt x 407.27156pt>
 File: ../img/30.png Graphic file (type png)
 <use ../img/30.png>
 Package pdftex.def Info: ../img/30.png  used on input line 329.
 (pdftex.def)             Requested size: 455.24411pt x 216.79749pt.
-<../img/31.png, id=207, 1277.52281pt x 186.6975pt>
+<../img/31.png, id=212, 1277.52281pt x 186.6975pt>
 File: ../img/31.png Graphic file (type png)
 <use ../img/31.png>
 Package pdftex.def Info: ../img/31.png  used on input line 336.
 (pdftex.def)             Requested size: 455.24411pt x 66.53018pt.
-<../img/32.png, id=208, 1250.42157pt x 363.60844pt>
+<../img/32.png, id=213, 1250.42157pt x 363.60844pt>
 File: ../img/32.png Graphic file (type png)
 <use ../img/32.png>
 Package pdftex.def Info: ../img/32.png  used on input line 343.
 (pdftex.def)             Requested size: 455.24411pt x 132.3803pt.
-<../img/33.png, id=209, 1041.1397pt x 450.18187pt>
+<../img/33.png, id=214, 1041.1397pt x 450.18187pt>
 File: ../img/33.png Graphic file (type png)
 <use ../img/33.png>
 Package pdftex.def Info: ../img/33.png  used on input line 350.
@@ -1235,12 +1235,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.30}) ha
                                                   \__shipout_drop_firstpage_...
 l.353 \FloatBarrier
                     <../img/30.png> <../img/31.png> <../img/32.png>]
-<../img/34.png, id=222, 1242.14063pt x 598.48593pt>
+<../img/34.png, id=227, 1242.14063pt x 598.48593pt>
 File: ../img/34.png Graphic file (type png)
 <use ../img/34.png>
 Package pdftex.def Info: ../img/34.png  used on input line 357.
 (pdftex.def)             Requested size: 455.24411pt x 219.34506pt.
-<../img/35.png, id=223, 1168.365pt x 541.27219pt>
+<../img/35.png, id=228, 1168.365pt x 541.27219pt>
 File: ../img/35.png Graphic file (type png)
 <use ../img/35.png>
 Package pdftex.def Info: ../img/35.png  used on input line 364.
@@ -1269,12 +1269,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.32}) ha
                                                   \__shipout_drop_firstpage_...
 l.367 \FloatBarrier
                     <../img/33.png> <../img/34.png>]
-<../img/36.png, id=232, 979.40906pt x 423.08063pt>
+<../img/36.png, id=237, 979.40906pt x 423.08063pt>
 File: ../img/36.png Graphic file (type png)
 <use ../img/36.png>
 Package pdftex.def Info: ../img/36.png  used on input line 371.
 (pdftex.def)             Requested size: 455.24411pt x 196.65298pt.
-<../img/37.png, id=233, 959.08313pt x 605.26125pt>
+<../img/37.png, id=238, 959.08313pt x 605.26125pt>
 File: ../img/37.png Graphic file (type png)
 <use ../img/37.png>
 Package pdftex.def Info: ../img/37.png  used on input line 380.
@@ -1303,12 +1303,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.34}) ha
                                                   \__shipout_drop_firstpage_...
 l.383 \FloatBarrier
                     <../img/35.png> <../img/36.png>]
-<../img/38.png, id=242, 545.78906pt x 98.61844pt>
+<../img/38.png, id=247, 545.78906pt x 98.61844pt>
 File: ../img/38.png Graphic file (type png)
 <use ../img/38.png>
 Package pdftex.def Info: ../img/38.png  used on input line 389.
 (pdftex.def)             Requested size: 455.24411pt x 82.25806pt.
-<../img/39.png, id=243, 368.1253pt x 189.70876pt>
+<../img/39.png, id=248, 368.1253pt x 189.70876pt>
 File: ../img/39.png Graphic file (type png)
 <use ../img/39.png>
 Package pdftex.def Info: ../img/39.png  used on input line 396.
@@ -1337,12 +1337,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.36}) ha
                                                   \__shipout_drop_firstpage_...
 l.399 \FloatBarrier
                     <../img/37.png> <../img/38.png>]
-<../img/41.png, id=252, 1028.34187pt x 578.16pt>
+<../img/41.png, id=257, 1028.34187pt x 578.16pt>
 File: ../img/41.png Graphic file (type png)
 <use ../img/41.png>
 Package pdftex.def Info: ../img/41.png  used on input line 403.
 (pdftex.def)             Requested size: 455.24411pt x 255.95268pt.
-<../img/42.png, id=253, 1444.64719pt x 332.74312pt>
+<../img/42.png, id=258, 1444.64719pt x 332.74312pt>
 File: ../img/42.png Graphic file (type png)
 <use ../img/42.png>
 Package pdftex.def Info: ../img/42.png  used on input line 414.
@@ -1410,20 +1410,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 433--434
 
  []
 
+<../img/43.png, id=280, 962.84718pt x 582.67688pt>
+File: ../img/43.png Graphic file (type png)
+<use ../img/43.png>
+Package pdftex.def Info: ../img/43.png  used on input line 440.
+(pdftex.def)             Requested size: 455.24411pt x 275.4941pt.
+<../img/44.png, id=281, 797.22844pt x 414.04688pt>
+File: ../img/44.png Graphic file (type png)
+<use ../img/44.png>
+Package pdftex.def Info: ../img/44.png  used on input line 448.
+(pdftex.def)             Requested size: 455.24411pt x 236.43245pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 437--438
-
- []
-
-
-Overfull \hbox (6.3808pt too wide) in paragraph at lines 449--449
- []      \T1/lmtt/m/n/12 && echo "deb https://ngrok-agent.s3.amazonaws.com bookworm main"[] 
- []
-
-
-Overfull \hbox (220.59001pt too wide) in paragraph at lines 452--453
-[]\T1/lmss/m/n/12 (-20) IP de con-te-ne-dor: [][]\T1/lmtt/m/n/12 docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' idDelContainer 
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
@@ -1436,6 +1434,165 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [26
 
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.40}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.451 \FloatBarrier
+                    <../img/43.png>]
+<../img/45.png, id=288, 641.39626pt x 186.6975pt>
+File: ../img/45.png Graphic file (type png)
+<use ../img/45.png>
+Package pdftex.def Info: ../img/45.png  used on input line 462.
+(pdftex.def)             Requested size: 455.24411pt x 132.51627pt.
+<../img/46.png, id=289, 694.09312pt x 630.10406pt>
+File: ../img/46.png Graphic file (type png)
+<use ../img/46.png>
+Package pdftex.def Info: ../img/46.png  used on input line 469.
+(pdftex.def)             Requested size: 455.24411pt x 413.28363pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.64995pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.64995pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.64995pt}.
+
+[27
+pdfTeX warning (ext4): destination with the same identifier (name{figure.41}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.472 \FloatBarrier
+                   
+pdfTeX warning (ext4): destination with the same identifier (name{figure.42}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.472 \FloatBarrier
+                    <../img/44.png> <../img/45.png>]
+<../img/47.png, id=298, 925.20656pt x 268.75406pt>
+File: ../img/47.png Graphic file (type png)
+<use ../img/47.png>
+Package pdftex.def Info: ../img/47.png  used on input line 477.
+(pdftex.def)             Requested size: 455.24411pt x 132.24014pt.
+
+Overfull \hbox (95.09895pt too wide) in paragraph at lines 474--480
+[]\T1/lmss/m/n/12 (-20) Ahora com-pro-ba-mos con el webhook de Co-olify [][]\T1/lmtt/m/n/12 http://l0wcs0g0wcscg0occc8gg8cw.192.168.0.68.sslip.io
+ []
+
+<../img/48.png, id=299, 1444.64719pt x 618.81187pt>
+File: ../img/48.png Graphic file (type png)
+<use ../img/48.png>
+Package pdftex.def Info: ../img/48.png  used on input line 486.
+(pdftex.def)             Requested size: 455.24411pt x 195.0023pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.64995pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.64995pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.64995pt}.
+
+[28
+pdfTeX warning (ext4): destination with the same identifier (name{figure.43}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.488 \end{figure}
+                  
+pdfTeX warning (ext4): destination with the same identifier (name{figure.44}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.488 \end{figure}
+                   <../img/46.png> <../img/47.png>]
+<../img/49.png, id=308, 783.67781pt x 696.35156pt>
+File: ../img/49.png Graphic file (type png)
+<use ../img/49.png>
+Package pdftex.def Info: ../img/49.png  used on input line 495.
+(pdftex.def)             Requested size: 455.24411pt x 404.52171pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.64995pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.64995pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.64995pt}.
+
+[29
+pdfTeX warning (ext4): destination with the same identifier (name{figure.45}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.498 \FloatBarrier
+                    <../img/48.png>]
+<../img/50.png, id=315, 928.21782pt x 240.14719pt>
+File: ../img/50.png Graphic file (type png)
+<use ../img/50.png>
+Package pdftex.def Info: ../img/50.png  used on input line 504.
+(pdftex.def)             Requested size: 455.24411pt x 117.78307pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.64995pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.64995pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.64995pt}.
+
+[30
+pdfTeX warning (ext4): destination with the same identifier (name{figure.46}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.508 \clearpage
+                
+pdfTeX warning (ext4): destination with the same identifier (name{figure.47}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.508 \clearpage
+                 <../img/49.png> <../img/50.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 511--512
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--517
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--520
+
+ []
+
+
+Overfull \hbox (6.3808pt too wide) in paragraph at lines 531--531
+ []      \T1/lmtt/m/n/12 && echo "deb https://ngrok-agent.s3.amazonaws.com bookworm main"[] 
+ []
+
+
+Overfull \hbox (220.59001pt too wide) in paragraph at lines 534--535
+[]\T1/lmss/m/n/12 (-20) IP de con-te-ne-dor: [][]\T1/lmtt/m/n/12 docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' idDelContainer 
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.64995pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.64995pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.64995pt}.
+
+[31
+
 ] (readme.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
@@ -1445,20 +1602,20 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
 Package rerunfilecheck Info: File `readme.out' has not changed.
-(rerunfilecheck)             Checksum: 220BF3B541BA88B3CCC1C3840B241391;807.
+(rerunfilecheck)             Checksum: FD9CE37D75DD01CEC29D853340B31A75;1047.
  ) 
 Here is how much of TeX's memory you used:
- 15362 strings out of 468130
- 248154 string characters out of 5429181
- 706760 words of memory out of 5000000
- 43642 multiletter control sequences out of 15000+600000
- 679047 words of font info for 107 fonts, out of 8000000 for 9000
+ 15451 strings out of 468130
+ 249619 string characters out of 5429181
+ 706761 words of memory out of 5000000
+ 43715 multiletter control sequences out of 15000+600000
+ 679163 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1213b,484s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1214b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on readme.pdf (26 pages, 2626856 bytes).
+Output written on readme.pdf (31 pages, 3015046 bytes).
 PDF statistics:
- 325 PDF objects out of 1000 (max. 8388607)
- 73 named destinations out of 1000 (max. 500000)
- 33524 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 379 PDF objects out of 1000 (max. 8388607)
+ 87 named destinations out of 1000 (max. 500000)
+ 33572 words of extra memory for PDF output out of 35830 (max. 10000000)
 

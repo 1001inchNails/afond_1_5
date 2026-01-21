@@ -429,12 +429,94 @@ Con el enlace resultante podemos ver la API en cualquier dispositivo.
 
 \clearpage
 
+\section{Auto-desplegar con webhook de Coolify}
+\hyperlink{anchor-indice}{\textbf{Volver}}\\
+
+Para que la aplicación se auto despliegue cada vez que se hace un push al repositorio de github de la API.
+
+Activar auto deploy en la configuración avanzada del proyecto (Coolify dashboard)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1\textwidth]{43.png}
+    \caption{Activar auto deploy}
+\end{figure}
+\FloatBarrier
+
+Ir a la pestaña de Webhooks, crear un secret y ponerselo.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1\textwidth]{44.png}
+    \caption{Introducir secret}
+\end{figure}
+\FloatBarrier
+
+Ir a la pestaña Settings del repositorio de nuestra API, clickea Webhooks.
+
+En payload URL introduce el Manual Git Webhook de Github, pero debes sustituir el dominio anterior a \verb|/webhooks| por el dominio que nos da ngrok después de introducir el comando \verb|ngrok http 8000|.
+
+Ponemos el mismo secret que pusimos en la configuración de Coolify
+
+Comprobamos que haga el ping correctamente
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1\textwidth]{45.png}
+    \caption{Ver ping}
+\end{figure}
+\FloatBarrier
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1\textwidth]{46.png}
+    \caption{Success!}
+\end{figure}
+\FloatBarrier
+
+Ahora comprobamos con el webhook de Coolify \verb|http://l0wcs0g0wcscg0occc8gg8cw.192.168.0.68.sslip.io| el estado actual de la API
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1\textwidth]{47.png}
+    \caption{Estado actual}
+\end{figure}
+\FloatBarrier
+
+Hacemos un cambio menor a nuestra API.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1\textwidth]{48.png}
+    \caption{Cambio menor QWERTY}
+\end{figure}
+\FloatBarrier
+
+Comprobamos en Github que el push se haya detectado correctamente
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1\textwidth]{49.png}
+    \caption{Success!}
+\end{figure}
+\FloatBarrier
+
+Volvemos al navegador y F5 para comprobar que el auto deploy se ha ejecutado correctamente
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1\textwidth]{50.png}
+    \caption{Oh yeah!}
+\end{figure}
+\FloatBarrier
+\clearpage
+
 \section{Info}
 \hyperlink{anchor-indice}{\textbf{Volver}}\\
 
 \textbf{Repositorio}
 
+Documentacion
 \url{https://github.com/1001inchNails/afond_1_5}\\
+
+API de prueba
+\url{https://github.com/1001inchNails/afond_1-4}\\
 
 \textbf{Comandos:}
 \begin{itemize}
