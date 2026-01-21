@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.26)  21 JAN 2026 19:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.26)  21 JAN 2026 19:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1573,12 +1573,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 518--520
  []
 
 
-Overfull \hbox (6.3808pt too wide) in paragraph at lines 531--531
+Overfull \hbox (36.75175pt too wide) in paragraph at lines 521--523
+[]\T1/lmss/m/n/12 (-20) Referencia Auto-Deploy [][]$\T1/lmtt/m/n/12 https : / / coolify . io / docs / applications / ci-[]cd / github / auto-[]deploy$[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--523
+
+ []
+
+
+Overfull \hbox (6.3808pt too wide) in paragraph at lines 534--534
  []      \T1/lmtt/m/n/12 && echo "deb https://ngrok-agent.s3.amazonaws.com bookworm main"[] 
  []
 
 
-Overfull \hbox (220.59001pt too wide) in paragraph at lines 534--535
+Overfull \hbox (220.59001pt too wide) in paragraph at lines 537--538
 []\T1/lmss/m/n/12 (-20) IP de con-te-ne-dor: [][]\T1/lmtt/m/n/12 docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' idDelContainer 
  []
 
@@ -1607,15 +1617,15 @@ Package rerunfilecheck Info: File `readme.out' has not changed.
 Here is how much of TeX's memory you used:
  15451 strings out of 468130
  249619 string characters out of 5429181
- 706761 words of memory out of 5000000
+ 707761 words of memory out of 5000000
  43715 multiletter control sequences out of 15000+600000
  679163 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1214b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on readme.pdf (31 pages, 3015046 bytes).
+Output written on readme.pdf (31 pages, 3015368 bytes).
 PDF statistics:
- 379 PDF objects out of 1000 (max. 8388607)
+ 380 PDF objects out of 1000 (max. 8388607)
  87 named destinations out of 1000 (max. 500000)
  33572 words of extra memory for PDF output out of 35830 (max. 10000000)
 
