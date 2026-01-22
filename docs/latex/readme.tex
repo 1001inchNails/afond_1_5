@@ -434,39 +434,38 @@ Con el enlace resultante podemos ver la API en cualquier dispositivo.
 
 Para que la aplicación se auto despliegue cada vez que se hace un push al repositorio de github de la API.
 
-Activar auto deploy en la configuración avanzada del proyecto (Coolify dashboard)
 \begin{figure}[h!]
     \centering
-    \includegraphics[width=1\textwidth]{43.png}
-    \caption{Activar auto deploy}
+    \includegraphics[width=0.9\textwidth]{43.png}
+    \caption{Activar auto deploy en la configuración avanzada del proyecto (Coolify dashboard)
+}
 \end{figure}
 \FloatBarrier
 
-Ir a la pestaña de Webhooks, crear un secret y ponerselo.
 \begin{figure}[h!]
     \centering
-    \includegraphics[width=1\textwidth]{44.png}
-    \caption{Introducir secret}
+    \includegraphics[width=0.9\textwidth]{44.png}
+    \caption{Ir a la pestaña de Webhooks, crear un secret y ponerselo.}
 \end{figure}
 \FloatBarrier
 
+\clearpage
 Ir a la pestaña Settings del repositorio de nuestra API, clickea Webhooks.
 
 En payload URL introduce el Manual Git Webhook de Github, pero debes sustituir el dominio anterior a \verb|/webhooks| por el dominio que nos da ngrok después de introducir el comando \verb|ngrok http 8000|.
 
 Ponemos el mismo secret que pusimos en la configuración de Coolify
 
-Comprobamos que haga el ping correctamente
 \begin{figure}[h!]
     \centering
     \includegraphics[width=1\textwidth]{45.png}
-    \caption{Ver ping}
+    \caption{Comprobamos que haga el ping correctamente}
 \end{figure}
 \FloatBarrier
 
 \begin{figure}[h!]
     \centering
-    \includegraphics[width=1\textwidth]{46.png}
+    \includegraphics[width=0.9\textwidth]{46.png}
     \caption{Success!}
 \end{figure}
 \FloatBarrier
@@ -484,27 +483,31 @@ Hacemos un cambio menor a nuestra API.
 \begin{figure}[h!]
     \centering
     \includegraphics[width=1\textwidth]{48.png}
-    \caption{Cambio menor QWERTY}
+    \caption{Cambio menor 'QWERTY'}
 \end{figure}
 \FloatBarrier
 
-Comprobamos en Github que el push se haya detectado correctamente
+\clearpage
+
 
 \begin{figure}[h!]
     \centering
     \includegraphics[width=1\textwidth]{49.png}
-    \caption{Success!}
+    \caption{Comprobamos en Github que el push se haya detectado correctamente}
 \end{figure}
 \FloatBarrier
-
-Volvemos al navegador y F5 para comprobar que el auto deploy se ha ejecutado correctamente
 
 \begin{figure}[h!]
     \centering
     \includegraphics[width=1\textwidth]{50.png}
-    \caption{Oh yeah!}
+    \caption{Volvemos al navegador y F5 para comprobar que el auto deploy se ha ejecutado correctamente
+}
 \end{figure}
 \FloatBarrier
+
+\textbf{Problemas encontrados:}
+
+La dirección IP de la máquina virtual cambia entre sesiones, de manera que hay que comprobarla y poner la correcta en el webhook proporcionado por Coolify.
 \clearpage
 
 \section{Info}
